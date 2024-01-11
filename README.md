@@ -31,6 +31,10 @@ A Diabetes Prediction web app using machine learning is an application that util
 
 4. **Access the Web App:**
 
+https://diabetes-prediction-webapp-using-machine-learning-fxgmyqg5kzjz.streamlit.app/
+
+
+   
 ![Screenshot 2024-01-11 144256](https://github.com/shubham5027/Diabetes-Prediction-webapp-using-Machine-Learning/assets/132193443/1cf49525-f715-412f-b076-de9f0d4de095)
 ![Screenshot 2024-01-11 144308](https://github.com/shubham5027/Diabetes-Prediction-webapp-using-Machine-Learning/assets/132193443/63b77e4a-7c5b-4f4c-a7f0-3127947cdceb)
 
